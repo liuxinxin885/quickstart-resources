@@ -12,3 +12,7 @@ wheels/
 
 # Virtual environments
 .venv
+aggent/
+polardb-postgresql-mcp-server/
+neon-pg-mcp-server-main/
+*.zip
